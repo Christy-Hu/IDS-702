@@ -1,2 +1,2 @@
 # IDS-702
-# Final Project for IDS - 702 class
+# Final Project for IDS - 702
